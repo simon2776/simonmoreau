@@ -1,6 +1,6 @@
-baseURL: "http://example.org/"
+baseURL: "https://simonmoreau.netlify.app/"
 languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+title: "Simon Moreau"
 
 module:
   imports:
