@@ -2,12 +2,22 @@
 title: Contact
 featured_image: images/notebook.jpg
 omit_header_text: true
-description: We'd love to hear from you
+description: Différents moyens de contact
 type: page
 menu:
   main: {}
 
 ---
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+Voici mes réseaux sociaux et mes informations de contact. 
 
 {{< form-contact action="https://example.com"  >}}
+
+### Contact
+
+* Téléphone : 0695079805
+* Lieu de résidence : Louviers 27400
+* Instagram : simon.mra
+* Linkedin : Simon Moreau
+* E-mail : smoreau@normandiewebschool.fr
+
+### Expérience
