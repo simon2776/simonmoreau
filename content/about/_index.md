@@ -5,19 +5,18 @@ description: Mon nom est Simon Moreau, j'ai actuellement 20 ans et je suis la fo
 featured_image: "/images/photo-fond-du-site.jpg"
 
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-Après plusieurs semaines de travail, je vous présente mon site web ! 
+Après plusieurs semaines de travail, je vous présente mon site web !
 
-### Contact 
+### Contact
 
 * Téléphone : 0695079805
 * Lieu de résidence : Louviers 27400
-* Instagram : simon.mra 
-* Linkedin : Simon Moreau 
+* Instagram : simon.mra
+* Linkedin : Simon Moreau
 * E-mail : smoreau@normandiewebschool.fr
 
-### Expérience 
+### Expérience
 
-* Stage de 3e : Canal+ section foot 
+* Stage de 3e : Canal+ section foot
 * 
