@@ -1,7 +1,8 @@
 ---
-title: 'Ananke: a Hugo Theme'
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-description: The last theme you'll ever need. Maybe.
+title: 'Moreau Simon '
+featured_image: "/images/photo-acceuil.jpg"
+description: Mon nom est Simon Moreau, j'ai actuellement 20 ans et je suis la formation
+  de Chef de Projet Digital à la Normandie Web School.
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+# Normandie Web School 
