@@ -20,4 +20,4 @@ Voici mes réseaux sociaux et mes informations de contact.
 * Linkedin : Simon Moreau
 * E-mail : smoreau@normandiewebschool.fr
 
-### 
+![](/images/reseaux.jpg)
