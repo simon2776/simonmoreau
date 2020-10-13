@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: images/notebook.jpg
+featured_image: "/images/photo-about.jpg"
 omit_header_text: true
 description: Différents moyens de contact
 type: page
@@ -8,7 +8,7 @@ menu:
   main: {}
 
 ---
-Voici mes réseaux sociaux et mes informations de contact. 
+Voici mes réseaux sociaux et mes informations de contact.
 
 {{< form-contact action="https://example.com"  >}}
 
@@ -20,4 +20,4 @@ Voici mes réseaux sociaux et mes informations de contact.
 * Linkedin : Simon Moreau
 * E-mail : smoreau@normandiewebschool.fr
 
-### Expérience
+### 
